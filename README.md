@@ -1,6 +1,5 @@
 # Sales-product 
-The Sales Data Analysis project involves using Python for data manipulation and cleaning tasks, instead of Power Query. Here is an updated outline of the steps involved:
-
+The Sales Data Analysis project involves using Python for data manipulation and cleaning tasks
 Data Acquisition:
 Download the sales data files from Kaggle in CSV format.
 Data Preparation and Cleaning using Python:
