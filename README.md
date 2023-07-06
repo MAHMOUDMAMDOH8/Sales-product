@@ -5,7 +5,7 @@ Download the sales data files from Kaggle in CSV format.
 
 Data Preparation and Cleaning using Python:
 
-Load the CSV files into Python using a library such as pandas.
+Load the CSV files into Python 
 
 Perform data manipulation tasks, such as combining multiple CSV files, handling missing values, and removing duplicates.
 
@@ -14,8 +14,6 @@ Apply necessary transformations to prepare the data for analysis.
 Data Integration with Power BI:
 
 Import the cleaned data into Power BI.
-
-Utilize Power Query to perform additional data transformations, such as merging tables, creating calculated columns, and defining relationships between tables.
 
 Report Creation with Power BI:
 
